@@ -60,12 +60,17 @@
 | AI 应用 | Python、FastAPI（asyncio / SSE）、LangChain、LangGraph、PGvector、RAGAs、Function Calling、MCP、vLLM / Ollama |
 | 可观测与工程 | Prometheus + Grafana、阿里云 ARMS、JVM 诊断、pytest、GitHub Actions |
 
-## 📊 GitHub 统计
+## 📊 GitHub
 
-![stats](https://github-readme-stats.vercel.app/api?username=zengbohan1&show_icons=true&theme=tokyonight&count_private=true)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengbohan1&layout=compact&theme=tokyonight)
+![followers](https://img.shields.io/github/followers/zengbohan1?style=flat-square&color=2F80ED)
+![stars](https://img.shields.io/github/stars/zengbohan1?style=flat-square&color=2F80ED)
+![repos](https://img.shields.io/github/repos/zengbohan1?style=flat-square&color=2F80ED)
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=zengbohan1&theme=tokyonight)
+| 项目 | 语言 | 状态 |
+|------|------|------|
+| [enterprise-rag-qa](https://github.com/zengbohan1/enterprise-rag-qa) | Python | v0.5 · Recall@1 87.4% |
+| [sentiment-analysis-agents](https://github.com/zengbohan1/sentiment-analysis-agents) | Python | 工具成功率 100% · 60 并发 |
+| [agent-orchestration-framework](https://github.com/zengbohan1/agent-orchestration-framework) | Python | 覆盖率 89% · 43 tests |
 
 ## 📫 联系我
 
