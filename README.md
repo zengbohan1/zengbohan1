@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=26&amp;pause=1100&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=70&amp;lines=Java+Backend+Engineer;AI+Application+Developer;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Orchestration" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=26&amp;pause=1100&amp;color=2F80ED&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=70&amp;lines=Java+Backend+Engineer;AI+Application+Developer;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Orchestration" alt="Typing introduction" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
   <a href="https://github.com/zengbohan1">
     <img src="https://img.shields.io/badge/GitHub-zengbohan1-181717?style=for-the-badge&amp;logo=github" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=zengbohan1&amp;style=for-the-badge&amp;color=7c3aed&amp;label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zengbohan1&amp;style=for-the-badge&amp;color=2f80ed&amp;label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ## Toolbox
