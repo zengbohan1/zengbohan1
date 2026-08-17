@@ -62,5 +62,5 @@
 </p>
 
 <p align="center">
-  <sub>Profile assets refresh automatically every day with GitHub Actions · 📬 bohan.zeng1@outlook.com</sub>
+  <sub>Profile assets refresh automatically every day with GitHub Actions · 📬 zengbh@gmail.com</sub>
 </p>
