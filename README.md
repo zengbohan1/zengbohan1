@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zeng Bohan · 曾波涵
+### Hi there 👋 I'm Bohan Zeng · 曾波涵
 
 **Java Backend Engineer · AI Application Developer**
 
