@@ -1,0 +1,105 @@
+name: Refresh profile assets
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate dark statistics card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&show=prs_merged,reviews&rank_icon=github&theme=github_dark&hide_border=true"
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate light statistics card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&show=prs_merged,reviews&rank_icon=github&theme=default&hide_border=true"
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dark language card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=spring-ai-alibaba,zengbohan1&theme=github_dark&hide_border=true"
+          path: profile/languages-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate light language card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=spring-ai-alibaba,zengbohan1&theme=default&hide_border=true"
+          path: profile/languages-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Validate generated statistics cards
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          invalid_count=0
+          cards=(
+            profile/stats-dark.svg
+            profile/stats-light.svg
+            profile/languages-dark.svg
+            profile/languages-light.svg
+          )
+
+          for card in "${cards[@]}"; do
+            valid=true
+
+            if [[ ! -s "$card" ]] || ! grep -q "<svg" "$card"; then
+              echo "::warning file=$card::Generated card is empty or is not an SVG; preserving the previous version"
+              valid=false
+            elif grep -Eqi \
+              "Something went wrong|Resource not accessible|Please try again later" \
+              "$card"; then
+              echo "::warning file=$card::Generated card contains an upstream API error; preserving the previous version"
+              valid=false
+            fi
+
+            if [[ "$valid" == false ]]; then
+              git restore --source=HEAD -- "$card"
+              invalid_count=$((invalid_count + 1))
+            fi
+          done
+
+          if (( invalid_count > 0 )); then
+            echo "Preserved $invalid_count previously valid card(s)."
+          fi
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/github-snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
+            profile/github-snake-dark.svg?palette=github-dark&color_snake=#a78bfa
+
+      - name: Commit refreshed assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "chore: refresh profile assets"
+          git push

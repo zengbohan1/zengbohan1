@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="180" viewBox="0 0 460 180">
+  <rect width="460" height="180" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="230" y="80" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="18" font-weight="600" fill="#8b949e">Most used languages</text>
+  <text x="230" y="110" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#586069">Refreshed daily by GitHub Actions</text>
+</svg>
