@@ -29,6 +29,41 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+## About me
+
+- 🎓 2027 届软件工程本科生
+- 📍 Hangzhou, China
+- 💻 Java 后端开发与 Python AI 应用开发
+- 🧪 关注 AI 测试、RAG 评测、Agent 编排与高并发服务
+
+## Work experience
+
+| Company | Role | Duration |
+|---------|------|----------|
+| 杭州溯光网络科技有限公司 | Java 后端开发工程师 | 2026.02 - 至今 |
+| 临沂飓山智能科技有限公司 | Java 后端开发工程师 | 2025.08 - 2026.01 |
+| 济南赫宸数字技术有限公司 | Java 后端开发工程师 | 2025.05 - 2025.07 |
+
+## Open source contribution
+
+- [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) contributor
+- [PR #4902](https://github.com/alibaba/spring-ai-alibaba/pull/4902)：Agentic RAG 四节点示例、检索重试、Studio 集成与 JDK 17 构建验证
+- [PR #4904](https://github.com/alibaba/spring-ai-alibaba/pull/4904)：graph 模块测试断言修复，修复后模块测试 464 项通过
+
+## Awards and credentials
+
+- 挑战杯河南省大学生创业计划竞赛：银奖
+- iCAN 大学生创新创业大赛：创业赛道复赛二等奖、全国总决赛入围
+- 中国国际大学生创新大赛河南赛区：省级二等奖
+- 发明专利：CN120807888 A
+- 软件著作权：2024SR1134499
+
+## Supplementary files
+
+[![Awards](https://img.shields.io/badge/Awards-2F80ED?style=flat-square)](./Awards.md)
+[![Open source](https://img.shields.io/badge/Open%20Source-2F80ED?style=flat-square)](./OpenSource.md)
+[![Development tips](https://img.shields.io/badge/Development%20Tips-2F80ED?style=flat-square)](./开发提效小tips.md)
+[![Contact](https://img.shields.io/badge/Contact-2F80ED?style=flat-square)](./vx.md)
 
 ---
 
