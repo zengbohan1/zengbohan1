@@ -1,23 +1,21 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1100&color=2F80ED&center=true&vCenter=true&width=800&height=70&lines=Java+Backend+Engineer;AI+Application+Developer;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Orchestration;Spring+AI+Alibaba+Contributor" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1100&color=2F80ED&center=true&vCenter=true&width=800&height=70&lines=Java+Backend+Engineer;Python+AI+Application+Developer" alt="Java Backend Engineer and Python AI Application Developer" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/zengbohan1">
     <img src="https://img.shields.io/badge/GitHub-zengbohan1-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=zengbohan1&style=for-the-badge&color=2f80ed&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
 
-<div align="center">
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently focused on AI Testing, RAG Evaluation & Agent Orchestration.</strong>
+    <strong>I'm currently focused on AI Application Development.</strong>
   </p>
+
   <p>
-    <code>🎓 Software Engineering, Class of 2027 · Hangzhou, China.</code>
+    <code>🐼 Born 2005.06.20 · ShanDong, China.</code>
+    <code>📍 Now Base in HangZhou.</code>
   </p>
 </div>
 
@@ -30,9 +28,9 @@
 > 📄 [View Details →](./WorkExperience.md)
 
 <p>
-<strong>Hangzhou Suguang Network Technology</strong> — Java Backend Engineer · <code>2026.02 - Present</code><br/>
-<strong>Linyi Jushan Intelligent Technology</strong> — Java Backend Engineer · <code>2025.08 - 2026.01</code><br/>
-<strong>Jinan Hechen Digital Technology</strong> — Java Backend Engineer · <code>2025.05 - 2025.07</code><br/>
+<strong>Hangzhou Suguang Network Technology</strong> — <code>Java Backend Engineer</code> · <code>2026.02 - Present</code><br/>
+<strong>Linyi Jushan Intelligent Technology</strong> — <code>Java Backend Engineer</code> · <code>2025.08 - 2026.01</code><br/>
+<strong>Jinan Hechen Digital Technology</strong> — <code>Java Backend Engineer</code> · <code>2025.05 - 2025.07</code><br/>
 </p>
 
 </td>
