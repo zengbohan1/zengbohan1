@@ -1,15 +1,51 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1100&color=2F80ED&center=true&vCenter=true&width=800&height=70&lines=Java+Backend+Engineer;AI+Application+Developer;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Orchestration;Spring+AI+Alibaba+Contributor" alt="Typing introduction" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/zengbohan1">
     <img src="https://img.shields.io/badge/GitHub-zengbohan1-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=zengbohan1&style=for-the-badge&color=2f80ed&label=PROFILE+VIEWS" alt="Profile views" />
+
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently focused on AI Testing, RAG Evaluation & Agent Orchestration.</strong>
+  </p>
+
+  <p>
+    <code>🎓 Software Engineering, Class of 2027 · Hangzhou, China.</code>
+  </p>
+</div>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 💼 Work Experience
+
+> 📄 [View Details →](./WorkExperience.md)
+
+<p>
+<strong>Hangzhou Suguang Network Technology</strong> — <code>Java Backend Engineer</code> · <code>2026.02 - Present</code><br/>
+<strong>Linyi Jushan Intelligent Technology</strong> — <code>Java Backend Engineer</code> · <code>2025.08 - 2026.01</code><br/>
+<strong>Jinan Hechen Digital Technology</strong> — <code>Java Backend Engineer</code> · <code>2025.05 - 2025.07</code><br/>
 </p>
+
+</td>
+<td valign="top" width="48%">
+
+#### 💻 Open Source Experience
+
+> 🏅 [View Awards →](./Awards.md)
+
+- 🦌 **[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)** contributor — Agentic AI framework for Java developers, 10K+ stars
+- 🔧 **[PR #4902](https://github.com/alibaba/spring-ai-alibaba/pull/4902)** — Agentic RAG four-node example, retrieval retry, Studio integration, JDK 17 Maven validation
+- 🧪 **[PR #4904](https://github.com/alibaba/spring-ai-alibaba/pull/4904)** — graph module test assertion fix, followed by 464 passing module tests
+
+</td>
+</tr>
+</table>
 
 ## Toolbox
 
@@ -34,28 +70,6 @@
 - 💻 Java backend development and Python AI application development
 - 🧪 Focused on AI testing, RAG evaluation, agent orchestration, and high-concurrency services
 
-## Work Experience
-
-| Company | Role | Duration |
-|---------|------|----------|
-| Hangzhou Suguang Network Technology | Java Backend Engineer | 2026.02 - Present |
-| Linyi Jushan Intelligent Technology | Java Backend Engineer | 2025.08 - 2026.01 |
-| Jinan Hechen Digital Technology | Java Backend Engineer | 2025.05 - 2025.07 |
-
-## Open Source Contributions
-
-- [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) contributor — an Agentic AI framework for Java developers with 10K+ stars
-- [PR #4902](https://github.com/alibaba/spring-ai-alibaba/pull/4902): Agentic RAG four-node example, retrieval retry, Studio integration, and JDK 17 Maven validation
-- [PR #4904](https://github.com/alibaba/spring-ai-alibaba/pull/4904): graph module test assertion fix, followed by 464 passing module tests
-
-## Awards & Credentials
-
-- Challenge Cup Henan College Students' Entrepreneurship Competition — Silver Award
-- iCAN College Students Innovation and Entrepreneurship Competition — Second Prize in the Entrepreneurship Track; National Finalist
-- China International College Students' Innovation Competition, Henan Regional Selection — Provincial Second Prize
-- Invention Patent: CN120807888 A
-- Software Copyright: 2024SR1134499
-
 ## Featured Projects
 
 | Project | Description | Highlights |
@@ -67,6 +81,7 @@
 
 ## Supplementary Files
 
+- [Work Experience](./WorkExperience.md) — detailed work history
 - [Awards](./Awards.md) — awards and credentials
 - [Open Source](./OpenSource.md) — Spring AI Alibaba contribution details
 - [Developer Productivity Tips](./开发提效小tips.md) — engineering workflow and productivity notes
