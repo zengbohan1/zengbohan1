@@ -10,11 +10,12 @@
 
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently focused on AI Application Development, RAG Evaluation & Agent Orchestration.</strong>
+    <strong>I'm currently focused on AI Application Development.</strong>
   </p>
 
   <p>
-    <code>🎓 Software Engineering, Class of 2027 · Hangzhou, China.</code>
+    <code>🐼 Born 2005.06.20 · ShanDong, China.</code>
+    <code>📍 Now Base in HangZhou.</code>
   </p>
 </div>
 
