@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=26&amp;pause=1100&amp;color=2F80ED&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=70&amp;lines=Java+Backend+Engineer;AI+Application+Developer;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Orchestration" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=26&amp;pause=1100&amp;color=2F80ED&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=70&amp;lines=Java+Backend+Engineer;AI+Application+Developer;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Orchestration;Spring+AI+Alibaba+Contributor" alt="Typing introduction" />
   </a>
 </p>
 
@@ -12,6 +12,8 @@
 </p>
 
 ## Toolbox
+
+<p align="center">
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -27,25 +29,31 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+
+---
+
 ## Featured projects
 
 <p align="center">
   <a href="https://github.com/zengbohan1/enterprise-rag-qa">
-    <img src="./profile/card-enterprise-rag-qa.svg" alt="Enterprise RAG Q&A" width="480" style="max-width:100%;border-radius:8px;margin-bottom:12px;" />
+    <img src="./profile/card-enterprise-rag-qa.svg" alt="Enterprise RAG Q&A" width="480" style="max-width:100%;border-radius:8px;margin-bottom:6px;" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zengbohan1/sentiment-analysis-agents">
-    <img src="./profile/card-sentiment-analysis-agents.svg" alt="Sentiment Analysis Agents" width="480" style="max-width:100%;border-radius:8px;margin-bottom:12px;" />
+    <img src="./profile/card-sentiment-analysis-agents.svg" alt="Sentiment Analysis Agents" width="480" style="max-width:100%;border-radius:8px;margin-bottom:6px;" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zengbohan1/agent-orchestration-framework">
-    <img src="./profile/card-agent-orchestration-framework.svg" alt="Agent Orchestration Framework" width="480" style="max-width:100%;border-radius:8px;margin-bottom:12px;" />
+    <img src="./profile/card-agent-orchestration-framework.svg" alt="Agent Orchestration Framework" width="480" style="max-width:100%;border-radius:8px;margin-bottom:6px;" />
   </a>
 </p>
+
+
+---
 
 ## GitHub activity
 
