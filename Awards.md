@@ -1,16 +1,16 @@
-# 🏆 获奖记录
+# 🏆 Awards & Credentials
 
-## 竞赛获奖
+## Competition Awards
 
-| 时间 | 赛事 | 奖项 |
-|------|------|------|
-| 2024 | "挑战杯"河南省大学生创业计划竞赛 | 银奖 |
-| 2025.11 | 第十九届 iCAN 大学生创新创业大赛 | 创业赛道复赛二等奖 |
-| 2025.11 | 第十九届 iCAN 大学生创新创业大赛 | 全国总决赛（入围） |
-| 2025.09 | 中国国际大学生创新大赛河南赛区选拔赛 | 省级二等奖 |
+| Year | Competition | Award |
+|------|-------------|-------|
+| 2024 | Challenge Cup Henan College Students' Entrepreneurship Competition | Silver Award |
+| 2025.11 | 19th iCAN College Students Innovation and Entrepreneurship Competition | Second Prize, Entrepreneurship Track |
+| 2025.11 | 19th iCAN College Students Innovation and Entrepreneurship Competition | National Finalist |
+| 2025.09 | China International College Students' Innovation Competition, Henan Regional Selection | Provincial Second Prize |
 
-## 学生荣誉
+## Student Honors
 
-| 时间 | 荣誉 |
-|------|------|
-| 2025 | 优秀学生干部 |
+| Year | Honor |
+|------|-------|
+| 2025 | Outstanding Student Leader |

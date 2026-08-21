@@ -1,19 +1,17 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=26&amp;pause=1100&amp;color=2F80ED&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=70&amp;lines=Java+Backend+Engineer;AI+Application+Developer;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Orchestration;Spring+AI+Alibaba+Contributor" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1100&color=2F80ED&center=true&vCenter=true&width=800&height=70&lines=Java+Backend+Engineer;AI+Application+Developer;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Orchestration;Spring+AI+Alibaba+Contributor" alt="Typing introduction" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zengbohan1">
-    <img src="https://img.shields.io/badge/GitHub-zengbohan1-181717?style=for-the-badge&amp;logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-zengbohan1-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=zengbohan1&amp;style=for-the-badge&amp;color=2f80ed&amp;label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zengbohan1&style=for-the-badge&color=2f80ed&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ## Toolbox
-
-<p align="center">
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -29,68 +27,52 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## About me
+## About Me
 
-- 🎓 2027 届软件工程本科生
+- 🎓 Software Engineering undergraduate, graduating in 2027
 - 📍 Hangzhou, China
-- 💻 Java 后端开发与 Python AI 应用开发
-- 🧪 关注 AI 测试、RAG 评测、Agent 编排与高并发服务
+- 💻 Java backend development and Python AI application development
+- 🧪 Focused on AI testing, RAG evaluation, agent orchestration, and high-concurrency services
 
-## Work experience
+## Work Experience
 
 | Company | Role | Duration |
 |---------|------|----------|
-| 杭州溯光网络科技有限公司 | Java 后端开发工程师 | 2026.02 - 至今 |
-| 临沂飓山智能科技有限公司 | Java 后端开发工程师 | 2025.08 - 2026.01 |
-| 济南赫宸数字技术有限公司 | Java 后端开发工程师 | 2025.05 - 2025.07 |
+| Hangzhou Suguang Network Technology | Java Backend Engineer | 2026.02 - Present |
+| Linyi Jushan Intelligent Technology | Java Backend Engineer | 2025.08 - 2026.01 |
+| Jinan Hechen Digital Technology | Java Backend Engineer | 2025.05 - 2025.07 |
 
-## Open source contribution
+## Open Source Contributions
 
-- [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) contributor
-- [PR #4902](https://github.com/alibaba/spring-ai-alibaba/pull/4902)：Agentic RAG 四节点示例、检索重试、Studio 集成与 JDK 17 构建验证
-- [PR #4904](https://github.com/alibaba/spring-ai-alibaba/pull/4904)：graph 模块测试断言修复，修复后模块测试 464 项通过
+- [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) contributor — an Agentic AI framework for Java developers with 10K+ stars
+- [PR #4902](https://github.com/alibaba/spring-ai-alibaba/pull/4902): Agentic RAG four-node example, retrieval retry, Studio integration, and JDK 17 Maven validation
+- [PR #4904](https://github.com/alibaba/spring-ai-alibaba/pull/4904): graph module test assertion fix, followed by 464 passing module tests
 
-## Awards and credentials
+## Awards & Credentials
 
-- 挑战杯河南省大学生创业计划竞赛：银奖
-- iCAN 大学生创新创业大赛：创业赛道复赛二等奖、全国总决赛入围
-- 中国国际大学生创新大赛河南赛区：省级二等奖
-- 发明专利：CN120807888 A
-- 软件著作权：2024SR1134499
+- Challenge Cup Henan College Students' Entrepreneurship Competition — Silver Award
+- iCAN College Students Innovation and Entrepreneurship Competition — Second Prize in the Entrepreneurship Track; National Finalist
+- China International College Students' Innovation Competition, Henan Regional Selection — Provincial Second Prize
+- Invention Patent: CN120807888 A
+- Software Copyright: 2024SR1134499
 
-## Supplementary files
+## Featured Projects
 
-[![Awards](https://img.shields.io/badge/Awards-2F80ED?style=flat-square)](./Awards.md)
-[![Open source](https://img.shields.io/badge/Open%20Source-2F80ED?style=flat-square)](./OpenSource.md)
-[![Development tips](https://img.shields.io/badge/Development%20Tips-2F80ED?style=flat-square)](./开发提效小tips.md)
-[![Contact](https://img.shields.io/badge/Contact-2F80ED?style=flat-square)](./vx.md)
+| Project | Description | Highlights |
+|---------|-------------|------------|
+| [spring-ai-alibaba](https://github.com/zengbohan1/spring-ai-alibaba) | Contributor to the Spring AI Alibaba Agentic AI framework for Java developers | Upstream project: 10K+ stars · 2 PRs · 464 module tests passed |
+| [enterprise-rag-qa](https://github.com/zengbohan1/enterprise-rag-qa) | Enterprise knowledge-base RAG Q&A with hybrid retrieval, reranking, and automated evaluation | Recall@1 87.4% · Faithfulness 94.1% · P95 32s → 10s |
+| [sentiment-analysis-agents](https://github.com/zengbohan1/sentiment-analysis-agents) | Multi-agent sentiment analysis with parallel agents, SSE long-task control, and fault injection | 60 concurrent tasks · P95 66.2s → 30.3s · 265 tool calls at 100% success |
+| [agent-orchestration-framework](https://github.com/zengbohan1/agent-orchestration-framework) | Lightweight agent orchestration with DAG scheduling, SQLite checkpoints, MCP, and Skills discovery | 43 tests passed · 89% core-module coverage |
 
----
+## Supplementary Files
 
-## Featured projects
+- [Awards](./Awards.md) — awards and credentials
+- [Open Source](./OpenSource.md) — Spring AI Alibaba contribution details
+- [Developer Productivity Tips](./开发提效小tips.md) — engineering workflow and productivity notes
+- [Contact](./vx.md) — contact information
 
-<p align="center">
-  <a href="https://github.com/zengbohan1/enterprise-rag-qa">
-    <img src="./profile/card-enterprise-rag-qa.svg" alt="Enterprise RAG Q&A" width="480" style="max-width:100%;border-radius:8px;margin-bottom:6px;" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zengbohan1/sentiment-analysis-agents">
-    <img src="./profile/card-sentiment-analysis-agents.svg" alt="Sentiment Analysis Agents" width="480" style="max-width:100%;border-radius:8px;margin-bottom:6px;" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zengbohan1/agent-orchestration-framework">
-    <img src="./profile/card-agent-orchestration-framework.svg" alt="Agent Orchestration Framework" width="480" style="max-width:100%;border-radius:8px;margin-bottom:6px;" />
-  </a>
-</p>
-
-
----
-
-## GitHub activity
+## GitHub Activity
 
 <p align="center">
   <picture>
@@ -105,7 +87,7 @@
   </picture>
 </p>
 
-## Contribution trail
+## Contribution Trail
 
 <p align="center">
   <picture>
