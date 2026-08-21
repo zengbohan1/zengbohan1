@@ -29,12 +29,23 @@
 
 ## Featured projects
 
-- **[enterprise-rag-qa](https://github.com/zengbohan1/enterprise-rag-qa)** · 企业知识库 RAG 问答系统
-  `文档解析 → 混合检索（BM25+向量）→ 重排 → 引用溯源生成` · Recall@1 **87.4%** · P95 **32s→10s**
-- **[sentiment-analysis-agents](https://github.com/zengbohan1/sentiment-analysis-agents)** · 多智能体舆情分析系统
-  `Query / Media / Insight 三 Agent 并行 + 自研调度器 + SSE 任务管控` · 工具成功率 **100%** · 60 任务并发
-- **[agent-orchestration-framework](https://github.com/zengbohan1/agent-orchestration-framework)** · 轻量 Agent 编排框架
-  `DAG + StateGraph + SQLite checkpoint + MCP（stdio/SSE）` · 覆盖率 **89%**
+<p align="center">
+  <a href="https://github.com/zengbohan1/enterprise-rag-qa">
+    <img src="./profile/card-enterprise-rag-qa.svg" alt="Enterprise RAG Q&A" width="480" style="max-width:100%;border-radius:8px;margin-bottom:12px;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zengbohan1/sentiment-analysis-agents">
+    <img src="./profile/card-sentiment-analysis-agents.svg" alt="Sentiment Analysis Agents" width="480" style="max-width:100%;border-radius:8px;margin-bottom:12px;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zengbohan1/agent-orchestration-framework">
+    <img src="./profile/card-agent-orchestration-framework.svg" alt="Agent Orchestration Framework" width="480" style="max-width:100%;border-radius:8px;margin-bottom:12px;" />
+  </a>
+</p>
 
 ## GitHub activity
 
