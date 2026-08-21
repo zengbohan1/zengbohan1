@@ -10,7 +10,7 @@
 
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently focused on AI Testing, RAG Evaluation & Agent Orchestration.</strong>
+    <strong>I'm currently focused on AI Application Development, RAG Evaluation & Agent Orchestration.</strong>
   </p>
 
   <p>
