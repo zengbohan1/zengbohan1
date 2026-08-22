@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Bohan Zeng&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 11, Total Commits  : 101, Total PRs: 2, Total PRs Merged: 0, Total PRs Reviewed: 0, Total Issues: 0, Contributed to (last year): 1</desc>
+        <title id="titleId">zengbohan1&#39;s GitHub Stats, Rank: C</title>
+        <desc id="descId">Total Stars Earned: 11, Total Commits  : 122, Total PRs: 2, Total PRs Merged: 0, Total PRs Reviewed: 0, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 229.76597596589187;
+        stroke-dashoffset: 229.20159500496447;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Bohan Zeng&#39;s GitHub Stats</text>
+      >zengbohan1&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >101</text>
+      >122</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
