@@ -46,8 +46,4 @@
 - 🦌 **[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)** contributor — Agentic AI framework for Java developers, 10K+ stars
 - ✅ **[PR #4926](https://github.com/alibaba/spring-ai-alibaba/pull/4926)** — merged 2026-08-25 — `test(graph): pin List<byte[]> element types across serializer round-trip`
 
-> 🏅 [View Awards →](./Awards.md)
 
-<p align="center">
-  <sub>📬 zengbh1@gmail.com · [Contact](./vx.md)</sub>
-</p>
