@@ -3,11 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1100&color=2F80ED&center=true&vCenter=true&width=800&height=50&lines=Hi,+I%27m+Bohan+Zeng.+AI+Full-Stack+Engineer." alt="Hi, I'm Bohan Zeng. AI Full-Stack Engineer." />
   </a>
 
-  <a href="https://github.com/zengbohan1">
-    <img src="https://img.shields.io/badge/GitHub-zengbohan1-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=zengbohan1&style=for-the-badge&color=2f80ed&label=PROFILE+VIEWS" alt="Profile views" />
-
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>I'm currently focused on AI Application Development.</strong>
