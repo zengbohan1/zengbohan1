@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1100&color=2F80ED&center=true&vCenter=true&width=800&height=70&lines=Java+Backend+Engineer;Python+AI+Application+Developer;Open+Source+Contributor+%40+Spring+AI+Alibaba" alt="Java Backend Engineer and Python AI Application Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1100&color=2F80ED&center=true&vCenter=true&width=800&height=50&lines=Hi,+I%27m+Bohan+Zeng.+AI+Full-Stack+Engineer." alt="Hi, I'm Bohan Zeng. AI Full-Stack Engineer." />
   </a>
 
   <a href="https://github.com/zengbohan1">
