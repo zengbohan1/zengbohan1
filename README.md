@@ -20,9 +20,4 @@
 - 💻 Java backend development and Python AI application development
 - 🧪 Focused on AI testing, RAG evaluation, agent orchestration, and high-concurrency services
 
-## Open Source
-
-- 🦌 **[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)** contributor — Agentic AI framework for Java developers, 10K+ stars
-- ✅ **[PR #4926](https://github.com/alibaba/spring-ai-alibaba/pull/4926)** — merged 2026-08-25 — `test(graph): pin List<byte[]> element types across serializer round-trip`
-
 
