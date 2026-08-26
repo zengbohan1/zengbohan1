@@ -14,10 +14,4 @@
   </p>
 </div>
 
-## About
-
-- 🎓 Software Engineering undergraduate, graduating in 2027
-- 💻 Java backend development and Python AI application development
-- 🧪 Focused on AI testing, RAG evaluation, agent orchestration, and high-concurrency services
-
 
