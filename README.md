@@ -41,16 +41,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## Work Experience
-
-| Period | Company | Role |
-| --- | --- | --- |
-| 2026.02 – Present | Hangzhou Suguang Network Technology | Java Backend Engineer |
-| 2025.08 – 2026.01 | Linyi Jushan Intelligent Technology | Java Backend Engineer |
-| 2025.05 – 2025.07 | Jinan Hechen Digital Technology | Java Backend Engineer |
-
-> 📄 [View Details →](./WorkExperience.md)
-
 ## Open Source
 
 - 🦌 **[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)** contributor — Agentic AI framework for Java developers, 10K+ stars
@@ -58,39 +48,6 @@
 
 > 🏅 [View Awards →](./Awards.md)
 
-## Featured Projects
-
-| Project | Description | Highlights |
-| --- | --- | --- |
-| [enterprise-rag-qa](https://github.com/zengbohan1/enterprise-rag-qa) | Enterprise knowledge-base RAG Q&A with hybrid retrieval, reranking, and automated evaluation | Recall@1 87.4% · Faithfulness 94.1% · P95 32s → 10s |
-| [sentiment-analysis-agents](https://github.com/zengbohan1/sentiment-analysis-agents) | Multi-agent sentiment analysis with parallel agents, SSE long-task control, and fault injection | 60 concurrent tasks · P95 66.2s → 30.3s · 265 tool calls at 100% success |
-| [agent-orchestration-framework](https://github.com/zengbohan1/agent-orchestration-framework) | Lightweight agent orchestration with DAG scheduling, SQLite checkpoints, MCP, and Skills discovery | 43 tests passed · 89% core-module coverage |
-
-## GitHub Activity
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
-    <img height="190" src="./profile/stats-light.svg" alt="GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/languages-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/languages-light.svg" />
-    <img height="190" src="./profile/languages-light.svg" alt="Most used languages" />
-  </picture>
-</p>
-
-## Contribution Trail
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
-    <img src="./profile/github-snake.svg" alt="Contribution graph snake animation" />
-  </picture>
-</p>
-
-<p align="center">
-  <sub>Profile assets refresh automatically every day with GitHub Actions · 📬 zengbh1@gmail.com · [Contact](./vx.md)</sub>
+  <sub>📬 zengbh1@gmail.com · [Contact](./vx.md)</sub>
 </p>
