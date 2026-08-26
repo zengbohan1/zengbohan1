@@ -14,7 +14,7 @@
   </p>
 
   <p>
-    <code>🐼 Born 2005.06.20 · ShanDong, China.</code>
+    <code>🐔 Born 2005.06.20 · ShanDong, China.</code>
     <code>📍 Now Base in HangZhou.</code>
   </p>
 </div>
